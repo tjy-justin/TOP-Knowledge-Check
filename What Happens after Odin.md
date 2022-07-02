@@ -31,17 +31,9 @@ refined: Tuesday, 2022-05-31
 
 ## JavaScript
 
-- [JavaScript Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
-- [JavaScript String Reference](https://www.w3schools.com/jsref/jsref_obj_string.asp)
-- [JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp)
-- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [GitHub - getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-
-## Python
-
-- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 ## Algorithm
 
